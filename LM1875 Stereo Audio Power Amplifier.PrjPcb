@@ -135,10 +135,14 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for LM1875 Stereo Audio Power Amplifier\LM1875 Stereo Audio Power Amplifier.nsx
+DocumentPath=Project Outputs for LM1875 Stereo Audio Power Amplifier\Design Rule Check - lm1875 amplifier.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
+DocumentPath=Project Outputs for LM1875 Stereo Audio Power Amplifier\LM1875 Stereo Audio Power Amplifier.nsx
+DItemRevisionGUID=
+
+[GeneratedDocument3]
 DocumentPath=Simulation\LM1875 Stereo Audio Power Amplifier.sdf
 DItemRevisionGUID=
 
