@@ -1,0 +1,73 @@
+Altium Designer Pick and Place Locations
+E:\Altium Designer\LM1875 Stereo Audio Power Amplifier\Project Outputs for Free Documents\Pick Place\Pick Place for lm1875 amplifier.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       21/06/24
+Time:       15:13
+Revision:   7e270b1038c00ab73725639a086f6f9aa6049a36
+Variant:    No variations
+Units used: mil
+
+Designator Comment      Layer    Footprint                       Center-X(mil) Center-Y(mil) Rotation Description                                                                                         
+J7         22-23-5024   TopLayer FP-22-23-5024-MFG               415.000       757.000       0        "CONN HEADER VERT 2POS 2.54MM"                                                                      
+C4         3300uF       TopLayer CAPACITOR_ELECTROLYTIC_16X21MM  4245.000      1075.000      180      ""                                                                                                  
+C3         3300uF       TopLayer CAPACITOR_ELECTROLYTIC_16X21MM  980.000       1205.000      180      ""                                                                                                  
+C2         3300uF       TopLayer CAPACITOR_ELECTROLYTIC_16X21MM  4975.000      1095.000      180      ""                                                                                                  
+C1         3300uF       TopLayer CAPACITOR_ELECTROLYTIC_16X21MM  1705.000      1210.000      180      ""                                                                                                  
+R21        1k           TopLayer RESISTOR_0207_1/4W              535.000       2170.000      90       ""                                                                                                  
+R20        20k          TopLayer RESISTOR_0207_1/4W_WIDE_LEGS    955.000       2105.000      0        ""                                                                                                  
+R19        22k          TopLayer RESISTOR_0207_1/4W              4020.000      1740.000      270      ""                                                                                                  
+R18        22k          TopLayer RESISTOR_0207_1/4W              770.000       1770.000      270      ""                                                                                                  
+R14        10k          TopLayer RESISTOR_0207_1/4W              5710.000      460.000       90       ""                                                                                                  
+R13        68k          TopLayer RESISTOR_0207_1/4W              6550.000      960.000       270      ""                                                                                                  
+R12        330R         TopLayer RESISTOR_0207_1/4W              6205.000      1390.000      90       ""                                                                                                  
+R11        2k2          TopLayer RESISTOR_0207_1/4W              5540.000      450.000       90       ""                                                                                                  
+R10        56k          TopLayer RESISTOR_0207_1/4W              6340.000      955.000       270      ""                                                                                                  
+R9         9k1          TopLayer RESISTOR_0207_1/4W              6000.000      780.000       180      ""                                                                                                  
+R8         91k          TopLayer RESISTOR_0207_1/4W              6080.000      1825.000      270      ""                                                                                                  
+R7         120k         TopLayer RESISTOR_0207_1/4W              5860.000      2275.000      180      ""                                                                                                  
+R6         120k         TopLayer RESISTOR_0207_1/4W              5905.000      1820.000      90       ""                                                                                                  
+R5         1k           TopLayer RESISTOR_0207_1/4W              3765.000      2190.000      90       ""                                                                                                  
+R4         20k          TopLayer RESISTOR_0207_1/4W_WIDE_LEGS    4205.000      2105.000      0        ""                                                                                                  
+R3         10k          TopLayer RESISTOR_0207_1/4W              6560.000      350.000       0        ""                                                                                                  
+R1         2.2k         TopLayer RESISTOR_0207_1/4W              865.000       645.000       0        ""                                                                                                  
+R17        1M           TopLayer RESISTOR_0207_1/4W              3640.000      1040.000      0        ""                                                                                                  
+R16        1M           TopLayer RESISTOR_0207_1/4W              400.000       1010.000      0        ""                                                                                                  
+D2         "Pwr Led"    TopLayer LED_3MM                         755.000       280.000       0        ""                                                                                                  
+D4         "Prot Led"   TopLayer LED_3MM                         5945.000      245.000       0        ""                                                                                                  
+U1         LM1875T      TopLayer NDH0005A                        4211.929      2181.260      0        "20-W Audio Power Amplifier, 5-pin TO-220"                                                          
+R2         1R           TopLayer RESISTOR_1W                     5030.000      2005.000      180      ""                                                                                                  
+Q1         BC546CTA     TopLayer FP-135AR-MFG                    5990.000      515.000       180      "BC546CTA Small Signal Bipolar Transistor, 0.1A I(C), 65V V(BR)CEO, 1-Element, NPN, Silicon, TO-92" 
+J11        "OUT R-"     TopLayer TERMINAL_6.3MM_MALE             2285.000      1233.543      90       ""                                                                                                  
+J10        "OUT R+"     TopLayer TERMINAL_6.3MM_MALE             2280.000      1623.543      90       ""                                                                                                  
+J9         "OUT L+"     TopLayer TERMINAL_6.3MM_MALE             3280.000      1698.543      90       ""                                                                                                  
+J8         "OUT L-"     TopLayer TERMINAL_6.3MM_MALE             3245.000      1278.543      90       ""                                                                                                  
+J4         17VAC        TopLayer TERMINAL_6.3MM_MALE             2906.457      280.000       180      ""                                                                                                  
+J3         17VAC        TopLayer TERMINAL_6.3MM_MALE             2508.543      280.000       180      ""                                                                                                  
+J2         GND          TopLayer TERMINAL_6.3MM_MALE             1871.457      560.000       180      ""                                                                                                  
+IC1        UPC1237      TopLayer SIP_8_PIN                       6820.000      1430.000      270      ""                                                                                                  
+D6         1N4004       TopLayer FP-DO-41-MFG                    5715.000      1240.000      90       "DIODE GEN PURP 400V 1A DO41"                                                                       
+D5         1N4742A      TopLayer FAIR-DO-41-2_V                  5720.000      1835.000      90       "Zener Diode, 12V, 1W, 5%, -65 to 200 degC, 2-Pin DO-41, Body 2.72 x 5.2 mm, RoHS"                  
+D3         1N4148       TopLayer FP-017AG-MFG                    6815.000      710.000       270      "DIODE GEN PURP 100V 200MA DO35"                                                                    
+D1         KBU1010      TopLayer KBU_RECTIFIER                   2680.000      520.000       0        ""                                                                                                  
+C18        22uF         TopLayer CAPACITOR_5X11MM                290.000       2195.000      270      ""                                                                                                  
+C17        100nF        TopLayer CAPACITOR_3X7MM                 945.000       1805.000      270      ""                                                                                                  
+C16        220nF        TopLayer CAPACITOR_MKT_5X13MM            1610.000      1730.000      180      ""                                                                                                  
+C15        2.2uF        TopLayer CAPACITOR_BIPOLAR_10X16MM_AXIAL 390.000       1531.299      90       ""                                                                                                  
+C14        2.2uF        TopLayer CAPACITOR_BIPOLAR_10X16MM_AXIAL 3645.000      1581.299      90       ""                                                                                                  
+C12        100nF        TopLayer CAPACITOR_3X7MM                 1160.000      1805.000      270      ""                                                                                                  
+C13        47uF         TopLayer CAPACITOR_6X11MM                6055.000      1035.000      180      ""                                                                                                  
+C11        22uF         TopLayer CAPACITOR_5X11MM                6345.000      1910.000      270      ""                                                                                                  
+C10        4.7uF        TopLayer CAPACITOR_5X11MM                5985.000      1395.000      270      ""                                                                                                  
+C9         22uF         TopLayer CAPACITOR_5X11MM                3500.000      2235.000      270      ""                                                                                                  
+C8         100nF        TopLayer CAPACITOR_3X7MM                 4220.000      1705.000      270      ""                                                                                                  
+C7         220nF        TopLayer CAPACITOR_MKT_5X13MM            4895.000      1645.000      180      ""                                                                                                  
+C6         22nF         TopLayer CAPACITOR_2.5X5MM               6450.000      1365.000      270      ""                                                                                                  
+C5         100nF        TopLayer CAPACITOR_3X7MM                 4440.000      1700.000      270      ""                                                                                                  
+U2         LM1875T      TopLayer NDH0005A                        956.929       2181.260      0        "20-W Audio Power Amplifier, 5-pin TO-220"                                                          
+R15        1R           TopLayer RESISTOR_1W                     1725.000      2035.000      180      ""                                                                                                  
+JP1        ""           TopLayer 61300211121                     6395.000      1650.000      180      ""                                                                                                  
+K1         hrm4-s-dc12v TopLayer RELAY_HRM4-S-DC12V              2810.000      1610.000      270      ""                                                                                                  
+J6         22-23-5024   TopLayer FP-22-23-5024-MFG               3660.000      762.000       0        "CONN HEADER VERT 2POS 2.54MM"                                                                      

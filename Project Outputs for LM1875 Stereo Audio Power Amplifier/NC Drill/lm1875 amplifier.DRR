@@ -1,0 +1,26 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: lm1875 amplifier.PcbDoc   21/06/2024  15:13:22
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : lm1875 amplifier-RoundHoles.TXT
+ASCII SlotHoles File : lm1875 amplifier-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.7mm (28mil)                                             Round             2         PTH        7.63mm (0.30inch)
+T2      0.711mm (28mil)                                           Round             8         PTH        222.48mm (8.76inch)
+T3      0.762mm (30mil)                                           Round             84        PTH        1030.20mm (40.56inch)
+T4      0.762mm (30mil)                                           Slot              14        PTH        271.70mm (10.70inch)
+T5      0.95mm (37mil)                                            Round             3         PTH        5.20mm (0.20inch)
+T6      1.016mm (40mil)                                           Round             16        PTH        193.19mm (7.61inch)
+T7      1.05mm (41mil)                                            Round             2         PTH        11.14mm (0.44inch)
+T8      1.1mm (43mil)                                             Round             12        PTH        287.32mm (11.31inch)
+T9      1.15mm (45mil)                                            Round             2         PTH        9.00mm (0.35inch)
+T10     1.397mm (55mil)                                           Round             4         PTH        15.24mm (0.60inch)
+T11     3mm (118mil)                                              Round             1         PTH        0.00mm (0.00inch)
+T12     3mm (118mil)                                              Round             4         NPTH       522.09mm (20.55inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              152
+
+Total Processing Time (hh:mm:ss) : 00:00:00
