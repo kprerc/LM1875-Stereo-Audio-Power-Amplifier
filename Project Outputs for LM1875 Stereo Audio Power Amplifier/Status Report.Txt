@@ -1,0 +1,10 @@
+Output: Export STEP
+Type  : ExportSTEP
+From  : Variant [[No Variations]] of PCB Document [lm1875 amplifier.PcbDoc]
+   Generated File[lm1875 amplifier.step]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 15:13:25 On 21/06/2024
